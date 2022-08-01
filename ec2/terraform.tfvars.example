@@ -1,0 +1,7 @@
+project_name = ""
+region = ""
+instance_type = ""
+ami_id = ""
+subnet_id = ""
+vpc_security_group_ids = [""]
+volume_size = 5
